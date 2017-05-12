@@ -10,10 +10,10 @@ VALIDATION_FILE = 'validation.tfrecords'
 TEST_FILE='test.tfrecords' 
 #IMAGE_PIXELS=224*224
 momentum=0.5
-epsilonw=0.05
+epsilonw=0.05                          ####参数的具体意义参见hinton的rbm.m
 epsilonb=0.05
 epsilona=0.05
-weightcost=0.00002
+weightcost=0.00002                     #####一次范数
 
 BATCH_SIZE=256
 #############LAYER3########################################
