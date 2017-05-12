@@ -1,0 +1,1173 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b_e",
+				"b_extra4_0"
+			],
+			[
+				"b_ex",
+				"b_extra3_0"
+			],
+			[
+				"W_extr",
+				"W_extra3_0"
+			],
+			[
+				"W_extra2",
+				"W_extra2_0"
+			],
+			[
+				"h_",
+				"h_conv2"
+			],
+			[
+				"h_poo",
+				"h_pool1"
+			],
+			[
+				"ba",
+				"batch_size"
+			],
+			[
+				"la",
+				"labels_train"
+			],
+			[
+				"pre",
+				"precision"
+			],
+			[
+				"log",
+				"logits"
+			],
+			[
+				"cof",
+				"cofmat"
+			],
+			[
+				"conf",
+				"confusion_matrix"
+			],
+			[
+				"fe",
+				"fmeasure_test"
+			],
+			[
+				"recaa",
+				"recall_value_test"
+			],
+			[
+				"acc",
+				"accuracy_test"
+			],
+			[
+				"pe",
+				"predicted"
+			],
+			[
+				"l",
+				"labels"
+			],
+			[
+				"im",
+				"images_test"
+			],
+			[
+				"lo",
+				"logits_test"
+			],
+			[
+				"re",
+				"recall"
+			],
+			[
+				"W",
+				"W3"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"f",
+				"float64"
+			],
+			[
+				"in",
+				"inference"
+			],
+			[
+				"weight",
+				"weights_initializer"
+			],
+			[
+				"b",
+				"b1"
+			],
+			[
+				"bias",
+				"biases_initializer"
+			],
+			[
+				"wei",
+				"weights_initializer"
+			],
+			[
+				"b_extr",
+				"b_extra4"
+			],
+			[
+				"W_ex",
+				"W_extra4_0"
+			],
+			[
+				"h_con",
+				"h_conv3"
+			],
+			[
+				"sc",
+				"scalar"
+			],
+			[
+				"summ",
+				"summary"
+			],
+			[
+				"ch",
+				"chanl_output"
+			],
+			[
+				"S",
+				"IMAGE_SIZE"
+			],
+			[
+				"I",
+				"IMAGE_SIZE"
+			],
+			[
+				"image",
+				"images_input"
+			],
+			[
+				"b_extra",
+				"b_extra3_0"
+			],
+			[
+				"resh",
+				"reshape"
+			],
+			[
+				"W_EX",
+				"W_extra2_0"
+			],
+			[
+				"load",
+				"load_data"
+			],
+			[
+				"c",
+				"chanl_input"
+			],
+			[
+				"res",
+				"reshape"
+			],
+			[
+				"inpu",
+				"input_size"
+			],
+			[
+				"cha",
+				"chanl_output"
+			],
+			[
+				"input",
+				"chanl_input"
+			],
+			[
+				"conv",
+				"conv_size"
+			],
+			[
+				"pos_hid",
+				"pos_hid_states_addpad"
+			],
+			[
+				"pos_po",
+				"pos_prods_trans"
+			],
+			[
+				"time",
+				"time_value"
+			],
+			[
+				"neg_hid",
+				"neg_hid_probs_trans"
+			],
+			[
+				"neg_data",
+				"neg_data_trans_out"
+			],
+			[
+				"pos_conv",
+				"pos_conv1_trans_out"
+			],
+			[
+				"images_trans",
+				"images_trans_out"
+			],
+			[
+				"neg_hid_pro",
+				"neg_hid_probs_trans"
+			],
+			[
+				"err",
+				"err_sum"
+			],
+			[
+				"neg_prods",
+				"neg_prods_origin_out"
+			],
+			[
+				"pos_con",
+				"pos_conv1_prob_out"
+			],
+			[
+				"neg",
+				"neg_data"
+			],
+			[
+				"W_inc_",
+				"W_inc_update_0"
+			],
+			[
+				"neg_pr",
+				"neg_prods_origin"
+			],
+			[
+				"pos_prod",
+				"pos_prods_origin"
+			],
+			[
+				"w",
+				"W_conv1"
+			],
+			[
+				"W_conv1_",
+				"W_conv1_out"
+			],
+			[
+				"W_",
+				"W_conv1"
+			],
+			[
+				"b_",
+				"b_extra1_0"
+			],
+			[
+				"a_",
+				"a_update_0"
+			],
+			[
+				"max",
+				"max_pool_3x3"
+			],
+			[
+				"save",
+				"save_fn"
+			],
+			[
+				"train_",
+				"train_crbm2cbrm_same"
+			],
+			[
+				"pos",
+				"pos_prods_temp2"
+			],
+			[
+				"pos_",
+				"pos_prods_temp1"
+			],
+			[
+				"a",
+				"a_conv1"
+			],
+			[
+				"pos_co",
+				"pos_conv1_prob_same"
+			],
+			[
+				"to",
+				"to_float"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"con",
+				"conv2d_s1_same"
+			],
+			[
+				"neg_",
+				"neg_prods"
+			],
+			[
+				"se",
+				"Session"
+			],
+			[
+				"ne",
+				"neg_data"
+			],
+			[
+				"Wfc",
+				"W_fc2_ft"
+			],
+			[
+				"h_c",
+				"h_conv2_ft"
+			],
+			[
+				"max_",
+				"max_pool_2x2"
+			],
+			[
+				"W_con",
+				"W_conv2_ft"
+			],
+			[
+				"ste",
+				"Step"
+			],
+			[
+				"labels",
+				"labels_placeholder"
+			],
+			[
+				"data",
+				"data_set"
+			],
+			[
+				"lao",
+				"load_matrix"
+			],
+			[
+				"loa",
+				"load_data"
+			],
+			[
+				"cv",
+				"csvfile_layer1"
+			],
+			[
+				"csv",
+				"csvfile_layer1"
+			],
+			[
+				"cs",
+				"csvfile_layer1"
+			],
+			[
+				"label",
+				"labels_placeholder"
+			],
+			[
+				"images_pl",
+				"images_placeholder"
+			],
+			[
+				"labe",
+				"labels_placeholder"
+			],
+			[
+				"images",
+				"images_feed"
+			],
+			[
+				"images_",
+				"images_pl"
+			],
+			[
+				"fee",
+				"feed_dict"
+			],
+			[
+				"num",
+				"num_examples"
+			],
+			[
+				"eval",
+				"eval_correct"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"loss_",
+				"loss_tf"
+			],
+			[
+				"d",
+				"dtype"
+			],
+			[
+				"rb",
+				"rbm_layer"
+			],
+			[
+				"summa",
+				"summary_writer"
+			],
+			[
+				"init",
+				"init"
+			],
+			[
+				"Sa",
+				"Saver"
+			],
+			[
+				"su",
+				"summary_op"
+			],
+			[
+				"le",
+				"learning_rate"
+			],
+			[
+				"train",
+				"train_op"
+			],
+			[
+				"lab",
+				"labels"
+			],
+			[
+				"ope",
+				"optimizer"
+			],
+			[
+				"h_fc",
+				"h_fc1_ft"
+			],
+			[
+				"ma",
+				"matmul"
+			],
+			[
+				"sum",
+				"summary_b_name"
+			],
+			[
+				"trai",
+				"train_rbm_layer2"
+			],
+			[
+				"sq",
+				"square_height"
+			],
+			[
+				"Bat",
+				"BATCH_SIZE"
+			],
+			[
+				"conver",
+				"convert_to_tensor"
+			],
+			[
+				"b_inc",
+				"b_inc_update"
+			],
+			[
+				"pos_prods_",
+				"pos_prods_trans"
+			],
+			[
+				"neg_pro",
+				"neg_prods_trans"
+			],
+			[
+				"pos_proda",
+				"pos_prods_trans_out"
+			],
+			[
+				"imag",
+				"images_trans"
+			],
+			[
+				"images_mea",
+				"images_mean_out"
+			],
+			[
+				"conv_siz",
+				"conv_size1"
+			],
+			[
+				"inpus",
+				"input_size_layer1"
+			],
+			[
+				"out",
+				"chanl_output"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "train_cdbn.py",
+			"settings":
+			{
+				"buffer_size": 28994,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "train_cdbn_crbm2crbm_deconv.py",
+			"settings":
+			{
+				"buffer_size": 15231,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "train_cdbn_crbm2crbm_same.py",
+			"settings":
+			{
+				"buffer_size": 15217,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "try2.py",
+			"settings":
+			{
+				"buffer_size": 3850,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "try.py",
+			"settings":
+			{
+				"buffer_size": 3845,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "global_define.py",
+			"settings":
+			{
+				"buffer_size": 679,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nfrom __future__ import absolute_import\nfrom __future__ import division\nfrom __future__ import print_function\n\n\nimport tensorflow as tf\nfrom tensorflow.contrib import layers\n\nfrom tensorflow.contrib.framework.python.ops import arg_scope\nfrom tensorflow.contrib.framework.python.ops import variables\nfrom tensorflow.contrib.layers.python.layers import layers as layers_lib\nfrom tensorflow.contrib.layers.python.layers import regularizers\nfrom tensorflow.contrib.layers.python.layers import utils\nfrom tensorflow.python.ops import array_ops\nfrom tensorflow.python.ops import init_ops\nfrom tensorflow.python.ops import nn_ops\nfrom tensorflow.python.ops import variable_scope\nimport tensorflow.contrib.slim as slim\nfrom tensorflow.contrib.layers.python.layers import initializers\nimport global_define as gd\nimport scipy.io as sio\nfrom tensorflow.python.ops import nn\n\ntrunc_normal = lambda stddev: init_ops.truncated_normal_initializer(0.0, stddev)\n\n#log_name=str(FLAGS.log_dir)+'zooscan_224_224_20_'+'layer5'+'.txt'\nload_fn='/home/scw4750/Liuhongkun/tfrecord/zooscan/Alex_cdbn/data_record/experiment2/Layer5/log2017022714343244326/parameters_layer4_epoch_400.mat'\nload_data=sio.loadmat(load_fn)\n\nW1=load_data['W1']\nprint(W1.shape)\n#a1=load_data['a1']\nb1=load_data['b1']\nW2=load_data['W2']\nb2=load_data['b2']\nW3=load_data['W3']\nb3=load_data['b3']\nW4=load_data['W4']\nb4=load_data['b4']\nW5=load_data['W5']\nb5=load_data['b5']\n\n\ndef weight_variable(name,shape,initial_value):\n\t\n\treturn tf.get_variable(name=name,shape=shape,initializer=tf.truncated_normal_initializer(stddev=initial_value))\n\ndef weight_decay(name, shape, stddev, wd):\n\tvar=tf.get_variable(name=name,shape=shape,initializer=tf.truncated_normal_initializer(stddev=stddev))\n\tif wd is not None:\n\t\tweight_decay=tf.mul(tf.nn.l2_loss(var),wd,name='weight_loss')\n\t\ttf.add_to_collection('losses',weight_decay)\n\t#print(var)\n\treturn var\n\ndef bias_variable(name,shape,initial_value):\n\t\n\treturn tf.get_variable(name=name,shape=shape,initializer=tf.constant_initializer(initial_value))\n\ndef conv2d(x,W,stride,padding):\n\treturn tf.nn.conv2d(x,W,strides=[1,stride,stride,1],padding=padding)\n\n\ndef max_pool(x,ksize,stride,padding):\n\treturn tf.nn.max_pool(x,ksize=[1,ksize,ksize,1],strides=[1,stride,stride,1],padding=padding)\n\ndef conv(input, kernel, biases, k_h, k_w, c_o, s_h, s_w,  padding=\"VALID\", group=1):\n    '''From https://github.com/ethereon/caffe-tensorflow\n    '''\n    c_i = input.get_shape()[-1]\n    assert c_i%group==0\n    assert c_o%group==0\n    convolve = lambda i, k: tf.nn.conv2d(i, k, [1, s_h, s_w, 1], padding=padding)\n    \n    \n    if group==1:\n        conv = convolve(input, kernel)\n    else:\n        input_groups = tf.split(3, group, input)\n        kernel_groups = tf.split(3, group, kernel)\n        output_groups = [convolve(i, k) for i,k in zip(input_groups, kernel_groups)]\n        conv = tf.concat(3, output_groups)\n    return  tf.reshape(tf.nn.bias_add(conv, biases), conv.get_shape().as_list())\n\n\ndef alexnet_v2_arg_scope(weight_decay=0.0005):\n  with arg_scope(\n      [layers.conv2d, layers_lib.fully_connected],\n      activation_fn=nn_ops.relu,\n      biases_initializer=init_ops.constant_initializer(0.1),\n      weights_regularizer=regularizers.l2_regularizer(weight_decay)):\n    with arg_scope([layers.conv2d], padding='SAME'):\n      with arg_scope([layers_lib.max_pool2d], padding='VALID') as arg_sc:\n        return arg_sc\n\ndef inference(image_input):\n\t#scope=alexnet_v2_arg_scope()\n\tnum_classes=20\n\tis_training=True\n\tdropout_keep_prob=0.5\n\tspatial_squeeze=True\n\tscope='alexnet_v2'\n#with slim.arg_scope(alexnet_v2_arg_scope()):\n\twith variable_scope.variable_scope(scope, 'alexnet_v2', [image_input]) as sc:\n\t\tend_points_collection = sc.original_name_scope + '_end_points'\n    # Collect outputs for conv2d, fully_connected and max_pool2d.\n\t\twith arg_scope(\n\t\t[layers.conv2d, layers_lib.fully_connected, layers_lib.max_pool2d],\n\t\toutputs_collections=[end_points_collection]) as here1:\n\t\t#print(a)\n\t\t\tnet = layers.conv2d(\n\t\t\t  image_input, 64, [11, 11], 4, \n\t\t\t  weights_initializer=tf.constant_initializer(W1),\n\t\t\t  biases_initializer=tf.constant_initializer(b1),\n\t\t\t   activation_fn=nn.sigmoid,padding='VALID', scope='conv1')\n\t\t\tnet = layers_lib.max_pool2d(net, [3, 3], 2,scope='pool1')\n\t\t\tnet = layers.conv2d(net, 192, [5, 5],\n\t\t\t\tweights_initializer=tf.constant_initializer(W2),\n\t\t\t\tbiases_initializer=tf.constant_initializer(b2), \n\t\t\t\tactivation_fn=nn.sigmoid,scope='conv2')\n\t\t\tnet = layers_lib.max_pool2d(net, [3, 3], 2, scope='pool2')\n\t\t\tnet = layers.conv2d(net, 384, [3, 3], \n\t\t\t\tweights_initializer=tf.constant_initializer(W3),\n\t\t\t\tbiases_initializer=tf.constant_initializer(b3),\n\t\t\t\tactivation_fn=nn.sigmoid,scope='conv3')\n\t\t\tnet = layers.conv2d(net, 384, [3, 3],\n\t\t\t\tweights_initializer=tf.constant_initializer(W4),\n\t\t\t\tbiases_initializer=tf.constant_initializer(b4), \n\t\t\t\tactivation_fn=nn.sigmoid,scope='conv4')\n\t\t\tnet = layers.conv2d(net, 256, [3, 3],\n\t\t\t\tweights_initializer=tf.constant_initializer(W5),\n\t\t\t\tbiases_initializer=tf.constant_initializer(b5),\n\t\t\t\tactivation_fn=nn.sigmoid, scope='conv5')\n\t\t\tnet = layers_lib.max_pool2d(net, [3, 3], 2, scope='pool5')\n\t\t# print()\n\t\t\t#print(here1)\n\t\t\t# Use conv2d instead of fully_connected layers.\n\t\t\twith arg_scope(\n\t\t\t  [layers.conv2d],\n\t\t\t  weights_initializer=trunc_normal(0.005),\n\t\t\t  biases_initializer=init_ops.constant_initializer(0.1)) as here2:\n\t\t\t\t#print(here2)\n\t\t\t\ta=3\n\t\t\t\tnet = layers.conv2d(net, 4096, [5, 5], padding='VALID', scope='fc6')\n\t\t\t\tnet = layers_lib.dropout(\n\t\t\t\t    net, dropout_keep_prob, is_training=is_training, scope='dropout6')\n\t\t\t\tnet = layers.conv2d(net, 4096, [1, 1], scope='fc7')\n\t\t\t\tnet = layers_lib.dropout(\n\t\t\t\t    net, dropout_keep_prob, is_training=is_training, scope='dropout7')\n\t\t\t\tnet = layers.conv2d(\n\t\t\t\t    net,\n\t\t\t\t    num_classes, [1, 1],\n\t\t\t\t    activation_fn=None,\n\t\t\t\t    normalizer_fn=None,\n\t\t\t\t    biases_initializer=init_ops.zeros_initializer(),\n\t\t\t\t    scope='fc8')\n\t\t\t\t#print(a)\n\n\t\t\t\t# Convert end_points_collection into a end_point dict.\n\t\t\t\tend_points = utils.convert_collection_to_dict(end_points_collection)\n\t\t\t\tif spatial_squeeze:\n\t\t\t\t\tnet = array_ops.squeeze(net, [1, 2], name='fc8/squeezed')\n\t\t\t\t\tend_points[sc.name + '/fc8'] = net\n\t\t\t\treturn net, end_points\n\t#\treturn logits\n\ndef loss(h_fc3,labels):\n\tprint('labels:'+str(labels))\n\tbatch_size=tf.size(labels)\n\tlabels=tf.expand_dims(labels,1)\n\tindices=tf.expand_dims(tf.range(0,batch_size),1)\n\t# print('indices:'+str(indices))\n\t# print('labels:'+str(labels))\n\t#concated=tf.concat(1,[indices,labels])\n\tconcated=tf.concat([indices,labels],1)\n\tonehot_labels=tf.sparse_to_dense(concated,tf.stack([batch_size,gd.NUM_CLASSES]),1.0,0.0)\n\tcross_entropy=slim.losses.softmax_cross_entropy(h_fc3,onehot_labels)\n\tloss=tf.reduce_mean(cross_entropy,name='xentropy_mean')\n\ttf.summary.scalar('xentropy_mean',loss)\n\treturn loss\n\n\ndef training(loss,learning_rate):\n\toptimizer=tf.train.GradientDescentOptimizer(learning_rate)\n\tglobal_step=tf.Variable(0,name='global_step',trainable=False)\n\ttrain_op=optimizer.minimize(loss,global_step=global_step)\n\treturn train_op\n\n# def recall(logits,labels):\n# \tbatch_size=tf.size(labels)\n# \tlabels=tf.expand_dims(labels,1)\n# \tindices=tf.expand_dims(tf.range(0,batch_size),1)\n# \t# print('indices:'+str(indices))\n# \t# print('labels:'+str(labels))\n# \t#concated=tf.concat(1,[indices,labels])\n# \tconcated=tf.concat([indices,labels],1)\n# \tonehot_labels=tf.sparse_to_dense(concated,tf.stack([batch_size,gd.NUM_CLASSES]),1.0,0.0)\n# \trecall,_=tf.contrib.metrics.streaming_recall(logits, onehot_labels, \n# \t\tweights=None, metrics_collections=None, updates_collections=None, name=None)\n# \ttf.summary.scalar('recall',recall)\n# \treturn recall\n\n\n\n\ndef evaluation(h_fc3,labels):\n\tcorrect=tf.nn.in_top_k(h_fc3,labels,1)\n\ttf.summary.scalar('evaluation',tf.reduce_sum(tf.cast(correct,tf.int32)))\n\treturn tf.reduce_sum(tf.cast(correct,tf.int32))\n\n# def confusion_matrix(logits,labels):\n# \tbatch_size=tf.size(labels)\n# \tlabels=tf.expand_dims(labels,1)\n# \tindices=tf.expand_dims(tf.range(0,batch_size),1)\n\n# \tconcated=tf.concat([indices,labels],1)\n# \tonehot_labels=tf.sparse_to_dense(concated,tf.stack([batch_size,gd.NUM_CLASSES]),1.0,0.0)\n\n# \tpredicted = tf.round(tf.nn.sigmoid(logits))\n# \tactual = labels\n\n# \tpredicted=tf.cast(predicted,tf.float32)\n# \tactual=tf.cast(predicted,tf.float32)\n\n# \ttp = tf.count_nonzero(predicted * actual)\n# \ttn = tf.count_nonzero((predicted - 1) * (actual - 1))\n# \tfp = tf.count_nonzero(predicted * (actual - 1))\n# \tfn = tf.count_nonzero((predicted - 1) * actual)\n\t    \n# \t# Calculate accuracy, precision, recall and F1 score.\n# \taccuracy = (tp + tn) / (tp + fp + fn + tn)\n# \tprecision = tp / (tp + fp)\n# \trecall = tp / (tp + fn)\n# \tfmeasure = (2 * precision * recall) / (precision + recall)\n\n# \t# Add metrics to TensorBoard.    \n# \ttf.summary.scalar('Accuracy', accuracy)\n# \ttf.summary.scalar('Precision', precision)\n# \ttf.summary.scalar('Recall', recall)\n# \ttf.summary.scalar('f-measure', fmeasure)\n\n# \treturn recall\n\n# def  accuracy(h_fc3,labels):\n# \tbatch_size=tf.size(labels)\n# \tlabels=tf.expand_dims(labels,1)\n# \tindices=tf.expand_dims(tf.range(0,batch_size),1)\n# \t# print('indices:'+str(indices))\n# \t# print('labels:'+str(labels))\n# \t#concated=tf.concat(1,[indices,labels])\n# \tconcated=tf.concat([indices,labels],1)\n# \tonehot_labels=tf.sparse_to_dense(concated,tf.stack([batch_size,gd.NUM_CLASSES]),1.0,0.0)\n# \taccuracy,_=tf.contrib.metrics.streaming_accuracy(h_fc3, onehot_labels,\n# \t weights=None, metrics_collections=None, updates_collections=None, name=None)\n# \ttf.summary.scalar('accuracy',accuracy)\n# \treturn accuracy",
+			"file": "Alexnet.py",
+			"file_size": 9551,
+			"file_write_time": 131328910977877504,
+			"settings":
+			{
+				"buffer_size": 9601,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fine-tune.py",
+			"settings":
+			{
+				"buffer_size": 10779,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils.py",
+			"settings":
+			{
+				"buffer_size": 5098,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/scw4750/Liuhongkun/tfrecord/zooscan/Alex_cdbn"
+	],
+	"file_history":
+	[
+		"/home/scw4750/Liuhongkun/tfrecord/zooscan/Alex_cdbn/train_cdbn_crbm2crbm_deconv.py",
+		"/home/scw4750/Liuhongkun/tfrecord/kaggle_zooplankton/cdbn2/train_cdbn3.py",
+		"/home/scw4750/Liuhongkun/tfrecord/kaggle_zooplankton/cdbn2/train_cdbn2.py",
+		"/home/scw4750/Liuhongkun/tfrecord/kaggle_zooplankton/cdbn2/train_fine_tune.py",
+		"/home/scw4750/Liuhongkun/tfrecord/kaggle_zooplankton/cdbn2/train_cdbn.py",
+		"/home/queenie/mnist/cdbn2/try2.txt",
+		"/home/queenie/mnist/cdbn2/try1.txt",
+		"/home/queenie/mnist/crbm_upadate_parameters3/train_crbm4.py",
+		"/home/queenie/mnist/crbm_update_parameters2/crbm_update_parameters2.sublime-project",
+		"/home/queenie/mnist/crbm_update_parameters/mnist.py",
+		"/home/queenie/mnist/rbm-mnist/crbm.py",
+		"/home/queenie/reading_data/readtf-train.py",
+		"/home/queenie/reading_data/readtf-train3.py",
+		"/home/queenie/reading_data/readtf-train2.py",
+		"/home/queenie/reading_data/just-try.py",
+		"/home/queenie/reading_data/Mnist_data/train.tfrecords",
+		"/home/queenie/reading_data/convert_to_records.py",
+		"/home/queenie/image2tfrecord/image2csv.py",
+		"/home/queenie/image2tfrecord/try.py",
+		"/home/queenie/image2tfrecord/csv2tfrecord.py",
+		"/home/queenie/image2tfrecord/manage-dataset.py",
+		"/home/queenie/image-tfrecord/just-testpad.py",
+		"/home/queenie/image-tfrecord/train.tfrecord",
+		"/home/queenie/image-tfrecord/genfromtxt-test.py",
+		"/home/queenie/image-tfrecord/csvtest.csv",
+		"/home/queenie/image-tfrecord/traintest.csv",
+		"/home/queenie/image-tfrecord/train.txt",
+		"/home/queenie/image-tfrecord/merge-test.py",
+		"/home/queenie/image-tfrecord/test.csv",
+		"/home/queenie/image-tfrecord/txt2tfrecord.py",
+		"/home/queenie/reading_data/txt2tfrecord.py",
+		"/home/queenie/cifar10/try-to-understand.py",
+		"/home/queenie/cifar10/cifar10.py",
+		"/home/queenie/cifar10/cifar10_multi_gpu_train.py",
+		"/home/queenie/cifar10/cifar10_train.py",
+		"/home/queenie/tensorflow-tutorial/mnist-master/try-to-understand.py",
+		"/home/queenie/tensorflow-tutorial/mnist-master/__init__.py",
+		"/home/queenie/tensorflow-tutorial/mnist-master/fully_connected_feed.py",
+		"/home/queenie/tensorflow-tutorial/mnist-master/mnist.py",
+		"/home/queenie/mnist-startup/mul-convnet-test.py",
+		"/home/queenie/mnist-startup/mul-convnet.py",
+		"/home/queenie/mnist-startup/fully-feedforward.py",
+		"/home/queenie/mnist-startup/deep-mnist-softmax.py",
+		"/home/queenie/mnist-startup/mnist_softmax.py",
+		"/home/queenie/mnist-startup/mnist_softmax-git.py",
+		"/home/queenie/mnist-startup/input_data.py",
+		"/home/queenie/mnist-startup/mnist-test.py",
+		"/home/queenie/tf-test1/basic-use4.py",
+		"/home/queenie/tf-test1/tf-test1.sublime-project",
+		"/home/queenie/tf-test1/basic-use2.py",
+		"/home/queenie/tf-test1/basic-use3.py",
+		"/home/queenie/tf-test1/basic-use2",
+		"/home/queenie/tf-test1/basicuse.py"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"100",
+			"evaluation",
+			"weightcost",
+			"np",
+			"numpy",
+			"input_size",
+			"50",
+			"100",
+			"reshaped_W",
+			"batch",
+			"217",
+			"scalar_summary",
+			"1",
+			"W1",
+			"inference",
+			"do_eval",
+			"fill_feed",
+			"do_eval",
+			"fill_feed_dict_dataset",
+			"do_eval",
+			"fill_",
+			"inference",
+			"fill_feed",
+			"images",
+			"img_dir",
+			"test_out",
+			"W",
+			"parameters",
+			"parameter",
+			"i",
+			"BATCH",
+			"FLAGS",
+			"FLAS",
+			"log_weight_name",
+			"10",
+			"7",
+			"9",
+			"3",
+			"reshaped_W",
+			"neg_data",
+			"5",
+			"9",
+			"5",
+			"tf.nn.relu",
+			"tf.sigmoid",
+			"tf.exp",
+			"reduce_sum",
+			"tf.nn.relu",
+			"})\n",
+			"tf.nn.relu",
+			"tf.exp",
+			"exp",
+			"1",
+			"sq",
+			"a_term",
+			"conv2d_s1_valid",
+			"valid",
+			"batch",
+			"summary_str",
+			"a_conv1",
+			"summary",
+			"gd",
+			"IMAGE_PIXELS",
+			"summary",
+			"symmary",
+			"10",
+			"2353",
+			"2352",
+			"arange",
+			"logits",
+			"images",
+			"image_summary",
+			"eval_data",
+			"scalar",
+			"1"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "train_cdbn.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27823,
+								27823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 84.0,
+						"translation.y": 14241.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "train_cdbn_crbm2crbm_deconv.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14029,
+								14029
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 42.0,
+						"translation.y": 5350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "train_cdbn_crbm2crbm_same.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13797,
+								13797
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11191.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "try2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								193,
+								193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 522.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "try.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3845,
+								3845
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "global_define.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Alexnet.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								945,
+								945
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 783.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "fine-tune.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1699,
+								1699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1044.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "utils.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 318.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Alex_cdbn.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
