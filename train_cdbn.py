@@ -396,6 +396,8 @@ def train_input2crbm(log_name,conv_size,input_size,chanl_input,chanl_output):
 		sess.close()
 		return W_update_0,a_update_0,b_update_0
 
+###############用于进行输入层到CRBM层之间的参数更新，将参数返回，保存到.mat文件中############################
+
 def train_crbm2crbm(log_name,conv_size,input_size,chanl_input,chanl_output,parameters):
 	images_input,labels_input=inputs(train='train',batch_size=FLAGS.batch_size,
 			num_epochs=FLAGS.num_epochs)
@@ -661,6 +663,8 @@ def train_crbm2crbm(log_name,conv_size,input_size,chanl_input,chanl_output,param
 		coord.join(threads)
 		sess.close()
 		return W_update_0,a_update_0,b_update_0
+	
+###################用于CRBM和CRBM层之间参数的更新，当更新到一定次数，存贮到.mat文件中#########################
 
 if __name__=="__main__":
 	# log_name=str(FLAGS.log_dir)+'zooscan_224_224_20_'+'layer1'+'_'+re.sub(r'[^0-7]','',str(datetime.datetime.now()))+'.txt'
@@ -751,3 +755,4 @@ if __name__=="__main__":
 	chanl_input=384
 	chanl_output=256
 	W2,a2,b2=train_crbm2crbm(log_name,conv_size,input_size,chanl_input,chanl_output,parameters_layer)
+#############将AlexNet中的第一层至第五层卷积层替换为卷积波尔兹曼机的参数更新######################################################
